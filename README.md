@@ -1,7 +1,7 @@
 # Welcome to React Router!
 
 <p align="center">
-  <img src="https://github.com/rajasuresh7/saveSegment/edit/main/app/assets/output-screen.png" width="600" />
+  <img src="https://github.com/rajasuresh7/saveSegment/blob/main/app/assets/output-screen.png" width="600" />
 </p>
 
 A modern, production-ready template for building full-stack React applications using React Router.
